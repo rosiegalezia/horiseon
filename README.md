@@ -12,7 +12,7 @@ The adapted code includes alt text for all the images used, and use of semantic 
 
 This project was a great way to put into practice the content learnt in the first week of the Bootcamp, and learn about semantic elements and code refactoring. It was also a good opportunity to practice agile project management.
 
-I realised retrospectively that I was editing the code directly from the main branch, and had forgotten to create a separate branch for edits, 
+I realised retrospectively that I was editing the code directly from the main branch, and had forgotten to create a separate branch for edits, this is something I should improve on next time to ensure good habits are developed.
 
 ## Installation
 
@@ -25,6 +25,8 @@ https://github.com/rosiegalezia/horiseon.git
 4. Use the command **git clone** followed by the url https://github.com/rosiegalezia/horiseon.git and click enter to clone locally
 
 ## Usage
+
+The website can be accessed at: https://rosiegalezia.github.io/horiseon/
 
 An image of the website's appearance is shown here:
 ![Website Screenshot](./assets/images/Site-screenshot.png)
